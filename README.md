@@ -7,3 +7,5 @@ Music Library
 	1) Login with Facebook.
 	2) Search songs into the site.
 	3) Uploading songs artists wise and genre wise
+
+- Currently, the work on this project has been halted.
